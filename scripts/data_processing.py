@@ -81,9 +81,3 @@ def cleansed_video_data():
 if __name__=='__main__':
     channel_data()
     cleansed_video_data()
-
-
-
-
-
-    
