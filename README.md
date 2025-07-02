@@ -15,7 +15,7 @@ This project is a complete **end-to-end data pipeline** for analyzing the YouTub
 | Component         | Tool/Tech                     |
 |------------------|-------------------------------|
 | Extraction        | Python, YouTube Data API v3   |
-| Transformation    | Pandas, PySpark               |               |
+| Transformation    | Pandas                        | 
 | Storage & Query   | Google BigQuery               |
 | Visualization     | Looker Studio (formerly GDS)  |
 
